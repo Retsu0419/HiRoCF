@@ -1,0 +1,5 @@
+node_modules/
+*.log
+.claude/worktrees/
+build/index.artifact.html
+build/index.standalone.html
